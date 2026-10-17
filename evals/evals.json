@@ -1,0 +1,24 @@
+{
+  "skill_name": "dramagic-character-pack",
+  "status": "draft-trials-not-executed",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "Use the Dramagic Skills to create one original character, Mara Venn, a fictional tidal observatory night keeper with silver braid, rust-orange waterproof coat and brass tide gauge, calm dry humor. Not a doctor or an existing official character. Author local-test, pack tidal-keeper, version 1.0.0. Use available image tools; deliver the importable character pack and separate report.",
+      "expected_output": "A genuinely distinct character with six real images, visually consistent transparent emotion sprites, supported voice, v3 manifest, referenced-files-only ZIP and native validation evidence. If image/validator tools are unavailable, explicit incomplete/unverified report instead of false success.",
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "I already made my six WebP images and manifest, but the folder also has generation_prompts.json, masters and old audio. Package this character without changing my artwork; identity points to neutral. Do not overwrite any existing output.",
+      "expected_output": "Whitelist assembly excludes intermediate/audio files and deduplicates identity-neutral. Native validator is required for import-ready claim; visual status is separate. No re-generation or dependency installation without need.",
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "Convert my old Dramagic 2.0 character manifest for custom import. I have not supplied author ID or version. It has leading-slash paths and catchphrase MP3. Can you just label it official and zip the whole folder?",
+      "expected_output": "Ask for stable author/package/version, refuse false official attribution, preserve original, normalize only supported package paths, omit audio/intermediates, and distinguish manifest conversion from validated complete package.",
+      "files": []
+    }
+  ]
+}

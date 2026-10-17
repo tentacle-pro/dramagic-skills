@@ -1,0 +1,335 @@
+{
+  "version": 1,
+  "voices": [
+    {
+      "id": "Puck",
+      "gender": "male",
+      "pitch": "中音",
+      "tags": [
+        "年轻",
+        "随和",
+        "活力"
+      ],
+      "description": "年轻、有亲和力的美式男声，语气轻松活跃，适合冒险者、社交型角色与阳光青年。"
+    },
+    {
+      "id": "Charon",
+      "gender": "male",
+      "pitch": "低音",
+      "tags": [
+        "沉稳",
+        "冷静",
+        "专业"
+      ],
+      "description": "低沉、共鸣感强的成熟男声，表达克制清楚，适合策划者、研究者、权威人物与冷静旁白。"
+    },
+    {
+      "id": "Fenrir",
+      "gender": "male",
+      "pitch": "中低音",
+      "tags": [
+        "温暖",
+        "兴奋",
+        "友好"
+      ],
+      "description": "温暖且容易被调动情绪的男声，带有探索感，适合热情同伴、行动派与好奇型角色。"
+    },
+    {
+      "id": "Orus",
+      "gender": "male",
+      "pitch": "中低音",
+      "tags": [
+        "坚定",
+        "清晰",
+        "直接"
+      ],
+      "description": "坚定直接、咬字清晰的年轻男声，适合执行者、管理者、警卫与原则性角色。"
+    },
+    {
+      "id": "Enceladus",
+      "gender": "male",
+      "pitch": "中低音",
+      "tags": [
+        "气声",
+        "自信",
+        "激励"
+      ],
+      "description": "略带气声但有推动力的男声，温暖、自信，适合导师、鼓舞者与富有魅力的角色。"
+    },
+    {
+      "id": "Iapetus",
+      "gender": "male",
+      "pitch": "中低音",
+      "tags": [
+        "专业",
+        "清晰",
+        "共鸣"
+      ],
+      "description": "专业、可信且共鸣感良好的男声，适合职场主管、秩序维护者、主持人与正式旁白。"
+    },
+    {
+      "id": "Umbriel",
+      "gender": "male",
+      "pitch": "中低音",
+      "tags": [
+        "随和",
+        "成熟",
+        "从容"
+      ],
+      "description": "随和从容的成年男声，清楚但不咄咄逼人，适合生活型角色、温和伙伴与可靠同事。"
+    },
+    {
+      "id": "Algieba",
+      "gender": "male",
+      "pitch": "低音",
+      "tags": [
+        "平滑",
+        "温暖",
+        "自信"
+      ],
+      "description": "顺滑温暖、表达自信的男声，适合领袖、谈判者、成熟魅力型角色。"
+    },
+    {
+      "id": "Algenib",
+      "gender": "male",
+      "pitch": "低音",
+      "tags": [
+        "沙哑",
+        "冷静",
+        "危险"
+      ],
+      "description": "略带沙砾感的低沉男声，冷静而有距离感，适合反派、危险对手、硬派行动者。"
+    },
+    {
+      "id": "Rasalgethi",
+      "gender": "male",
+      "pitch": "中高音",
+      "tags": [
+        "年轻",
+        "信息感",
+        "活力"
+      ],
+      "description": "年轻、敏捷且信息传达清楚的男声，适合机敏分析者、记者、技术角色。"
+    },
+    {
+      "id": "Alnilam",
+      "gender": "male",
+      "pitch": "中高音",
+      "tags": [
+        "坚定",
+        "乐观",
+        "清楚"
+      ],
+      "description": "坚定乐观、节奏利落的年轻男声，适合积极执行者、正面领队与热血角色。"
+    },
+    {
+      "id": "Schedar",
+      "gender": "male",
+      "pitch": "中音",
+      "tags": [
+        "均衡",
+        "休闲",
+        "亲近"
+      ],
+      "description": "均衡自然、轻松亲近的年轻男声，适合普通青年、朋友与日常对话角色。"
+    },
+    {
+      "id": "Pulcherrima",
+      "gender": "male",
+      "pitch": "中高音",
+      "tags": [
+        "直率",
+        "青春",
+        "明快"
+      ],
+      "description": "直率明快、富有青春感的男声，适合外向角色、表演者和率真青年。"
+    },
+    {
+      "id": "Achird",
+      "gender": "male",
+      "pitch": "中低音",
+      "tags": [
+        "友好",
+        "温暖",
+        "专业"
+      ],
+      "description": "友好温暖又不失专业的成年男声，适合照顾者、老师、顾问和可靠搭档。"
+    },
+    {
+      "id": "Zubenelgenubi",
+      "gender": "male",
+      "pitch": "低音",
+      "tags": [
+        "深沉",
+        "从容",
+        "威严"
+      ],
+      "description": "深沉、共鸣强且自信的男声，适合掌权者、终局反派、长者和庄重旁白。"
+    },
+    {
+      "id": "Sadachbia",
+      "gender": "male",
+      "pitch": "中低音",
+      "tags": [
+        "活泼",
+        "清晰",
+        "职业"
+      ],
+      "description": "有活力、表达清楚的职业男声，适合主持人、销售、社交型职场角色。"
+    },
+    {
+      "id": "Sadaltager",
+      "gender": "male",
+      "pitch": "中低音",
+      "tags": [
+        "渊博",
+        "冷静",
+        "可信"
+      ],
+      "description": "知识感强、冷静且容易信任的男声，适合学者、医生、导师和策略顾问。"
+    },
+    {
+      "id": "Zephyr",
+      "gender": "female",
+      "pitch": "中高音",
+      "tags": [
+        "明亮",
+        "热情",
+        "年轻"
+      ],
+      "description": "明亮热情、咬字清楚的年轻女声，适合外向角色、活力少女与乐观引导者。"
+    },
+    {
+      "id": "Kore",
+      "gender": "female",
+      "pitch": "中高音",
+      "tags": [
+        "坚定",
+        "清晰",
+        "自信"
+      ],
+      "description": "坚定自信、表达有力量的女声，适合女领导、强势执行者、理性对手。"
+    },
+    {
+      "id": "Leda",
+      "gender": "female",
+      "pitch": "中高音",
+      "tags": [
+        "青春",
+        "好奇",
+        "活力"
+      ],
+      "description": "青春、好奇且富有能量的女声，适合年轻探索者、学生与灵感型角色。"
+    },
+    {
+      "id": "Aoede",
+      "gender": "female",
+      "pitch": "中高音",
+      "tags": [
+        "轻快",
+        "专业",
+        "亲切"
+      ],
+      "description": "轻快但专业、沟通感良好的女声，适合主持人、顾问、社交型职场角色。"
+    },
+    {
+      "id": "Callirrhoe",
+      "gender": "female",
+      "pitch": "中高音",
+      "tags": [
+        "轻松",
+        "友好",
+        "自然"
+      ],
+      "description": "轻松友好、自然耐听的女声，适合日常伙伴、服务角色与亲和型人物。"
+    },
+    {
+      "id": "Autonoe",
+      "gender": "female",
+      "pitch": "中高音",
+      "tags": [
+        "温暖",
+        "鼓励",
+        "明亮"
+      ],
+      "description": "温暖明亮、带鼓励感的女声，适合导师、团队引导者和正面领导者。"
+    },
+    {
+      "id": "Despina",
+      "gender": "female",
+      "pitch": "中高音",
+      "tags": [
+        "平滑",
+        "活力",
+        "年轻"
+      ],
+      "description": "顺滑、活跃且年轻的女声，适合行动派、外向青年与现代都市角色。"
+    },
+    {
+      "id": "Erinome",
+      "gender": "female",
+      "pitch": "中音",
+      "tags": [
+        "清晰",
+        "自信",
+        "精致"
+      ],
+      "description": "清晰自信、带有成熟精致感的女声，适合策略家、专业人士与冷静分析者。"
+    },
+    {
+      "id": "Laomedeia",
+      "gender": "female",
+      "pitch": "中高音",
+      "tags": [
+        "欢快",
+        "温暖",
+        "亲近"
+      ],
+      "description": "欢快温暖、容易接近的年轻女声，适合快乐分享者、社交达人与冒险伙伴。"
+    },
+    {
+      "id": "Achernar",
+      "gender": "female",
+      "pitch": "中高音",
+      "tags": [
+        "柔和",
+        "温暖",
+        "邀请感"
+      ],
+      "description": "柔和温暖、富有邀请感的女声，适合守护者、温柔角色、安抚型旁白。"
+    },
+    {
+      "id": "Gacrux",
+      "gender": "female",
+      "pitch": "中音",
+      "tags": [
+        "成熟",
+        "温暖",
+        "从容"
+      ],
+      "description": "成熟温暖、表达从容的女声，适合长辈、管理者、沉稳领导和成熟反派。"
+    },
+    {
+      "id": "Vindemiatrix",
+      "gender": "female",
+      "pitch": "中高音",
+      "tags": [
+        "温和",
+        "顺滑",
+        "细腻"
+      ],
+      "description": "温和细腻、发音顺滑的年轻女声，适合共情者、理想主义者和敏感角色。"
+    },
+    {
+      "id": "Sulafat",
+      "gender": "female",
+      "pitch": "中高音",
+      "tags": [
+        "温暖",
+        "热情",
+        "职业"
+      ],
+      "description": "温暖热情且具有职业感的女声，适合职场主管、主持人与积极引导者。"
+    }
+  ]
+}
